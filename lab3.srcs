@@ -1,0 +1,3 @@
+src/lab3/agents/VanillaHillClimbingAgent.java
+src/lab3/agents/SimulatedAnnealingAgent.java
+src/lab3/agents/StochasticHillClimbingAgent.java

@@ -1,0 +1,12 @@
+src/pa2/heuristics/DefaultHeuristics.java
+src/pa2/heuristics/CustomHeuristics.java
+
+src/pa2/moveorder/DefaultMoveOrderer.java
+src/pa2/moveorder/CustomMoveOrderer.java
+
+
+src/pa2/agents/MinimaxAgent.java
+src/pa2/agents/AlphaBetaAgent.java
+
+src/pa2/instrumentation/MinimaxAgent.java
+

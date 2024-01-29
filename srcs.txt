@@ -1,0 +1,3 @@
+src/lab2/agents/BFSMazeAgent.java
+src/lab2/agents/DFSMazeAgent.java
+src/lab2/agents/DijkstraMazeAgent.java
